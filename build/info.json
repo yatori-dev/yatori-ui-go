@@ -1,0 +1,15 @@
+{
+	"fixed": {
+		"file_version": "1.0.0"
+	},
+	"info": {
+		"0000": {
+			"ProductVersion": "1.0.0",
+			"CompanyName": "Yatori",
+			"FileDescription": "Yatori GUI",
+			"LegalCopyright": "© becomer, Yatori",
+			"ProductName": "Yatori GUI",
+			"Comments": "It is so perfect for u"
+		}
+	}
+}
